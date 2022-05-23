@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damiankrajnak
 - 👀 I’m interested in Frontend
-- 🌱 I'm currently learning Redux and GraphQL
+- 🌱 I'm currently learning Next.js and GraphQL
 
 <!---
 damiankrajnak/damiankrajnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
