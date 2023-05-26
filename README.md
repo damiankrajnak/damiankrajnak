@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @damiankrajnak
-- 👀 I’m interested in Fullstack Web Development (Node.js, React, TS)
-- 🌱 I'm currently getting better with GraphQL and PostgreSQL 
+- 👀 I’m a Fullstack Web Developmer (Node.js, React, TS)
 
 <!---
 damiankrajnak/damiankrajnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
