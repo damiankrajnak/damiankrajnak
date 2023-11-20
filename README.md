@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damiankrajnak
-- 👀 I’m a Fullstack Web Developmer (Typescript, React, Node.js, Next.js, GraphQL)
+- 👀 I’m a Fullstack Web Developmer (Typescript, React, Node.js, Next.js, GraphQL, PostgreSQL)
 
 <!---
 damiankrajnak/damiankrajnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
